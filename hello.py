@@ -1,3 +1,6 @@
-for in range(5):
-    print('hello world')
-`
+for j in range(1,15):
+    if j % 2 == 1:
+        print('{} conda'.format(j))
+    else :
+        print('{}'.format(j))
+
